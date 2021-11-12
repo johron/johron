@@ -3,7 +3,9 @@
 
 ![JohanDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanDevv&show_icons=true&theme=tokyonight)
 
-Here you will just find some random projects I've worked on.
+```python
+print("Here you will just find some random projects I've worked on.")
+```
 
 - 🔭 I’m currently working on **My Website**
 - 🌱 I’m currently learning **Java & Web Development**
