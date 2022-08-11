@@ -13,3 +13,6 @@
 
 ###### Github Stats
 ![Teashirt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teashirtdev&show_icons=true&theme=dark)
+
+###### Support
+- [You can buy me a coffe by clicking](https://www.buymeacoffee.com/teashirt)
