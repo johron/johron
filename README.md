@@ -1,13 +1,15 @@
-# Teashirt
-### Hi there 👋
+# TeashirtDev
 
-````-100 iq developer````
+###### About me
+- Hey, i'm teashirt a 15 year old self-though programming enthusiast from Norway. I've actually been writing code in many languages for over 5+ years.
 
-![Teashirt's GitHub stats](https://github-readme-stats.vercel.app/api?username=teashirtdev&show_icons=true&theme=tokyonight)
+###### Language Experience
+‎<img style="float: right;" src="icons/csharp.svg" alt="C#" width="21" height="21" >
+<img style="float: right;" src="icons/java.svg" alt="Java" width="21" height="21" >
+<img style="float: right;" src="icons/javascript.svg" alt="JS" width="21" height="21" >
+<img style="float: right;" src="icons/typescript.svg" alt="TS" width="21" height="21" >
+<img style="float: right;" src="icons/lua.svg" alt="Lua" width="21" height="21" >
+<img style="float: right;" src="icons/python.svg" alt="Python" width="21" height="21" >
 
-```javascript
-console.log("I'm that smart that my iq is a negative")
-```
-
-- 🔭 I’m currently working on **Node.js Things**
-- 🌱 I’m currently learning **JavaScript & TypeScript**
+###### Github Stats
+![Teashirt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teashirtdev&show_icons=true&theme=dark)
