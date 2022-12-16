@@ -1,7 +1,7 @@
 # JohainDev
 
 ###### About me
-- Hey, i'm Johan a 15 year old self-though programming enthusiast from Norway. I've been writing code around 5 years.
+- Hey, i'm Johan a 15 year old self-thought programming enthusiast from Norway. I've been writing code around 5 years.
 
 ###### Language Experience
 ‎<img style="float: right;" src="icons/csharp.svg" alt="C#" width="21" height="21" >
