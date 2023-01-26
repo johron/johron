@@ -12,4 +12,4 @@
 <img style="float: right;" src="icons/python.svg" alt="Python" width="21" height="21" >
 
 ###### Github Stats
-![Teashirt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johaindev&show_icons=true&theme=dark)
+![Johan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johaindev&show_icons=true&theme=dark)
