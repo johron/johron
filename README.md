@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 15 year old programming enthusiast from the Scandinavian country Norway.
+I'm a 15 year old programming enthusiast from the country Norway. I specialize in TypeScript, Python & Lua.
 
 
 # 💻 Tech Stack:
