@@ -3,11 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=johainworks&style=flat-square)
 
 ### About
-hobbyist devloper, domain buying addict and avid garifeld enjoyer  
-https://bleach.dev/  
+hobbyist devloper, a wizard man
+
+### Projects
+- Menju: `reliable desktop application`
 
 <details>
-  <summary>Contact</summary>
+
+<summary>Contact</summary>
   
   - Discord: `Johain#00339`   
   - Email: `johain@courvix.com`
