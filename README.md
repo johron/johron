@@ -6,10 +6,9 @@
 hobbyist devloper, a wizard man
 
 ### Projects
-- Menju: `reliable desktop application`
+- Menju: reliable desktop application
 
 <details>
-
 <summary>Contact</summary>
   
   - Discord: `Johain#00339`   
