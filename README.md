@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=johainworks&style=flat-square)
 
 ### About
-hobbyist devloper, a wizard man
+hobbyist devloper and a wizard man
 
 ### Projects
 - Menju: reliable desktop application
