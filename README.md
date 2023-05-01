@@ -11,6 +11,6 @@ hobbyist devloper and a wizard man
 <details>
 <summary>Contact</summary>
   
-  - Discord: `Johain#00339`   
+  - Discord: `Johain#0339`   
   - Email: `johain@courvix.com`
 </details>
