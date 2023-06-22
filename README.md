@@ -7,6 +7,7 @@ hobbyist devloper.
 
 ### Projects
 - Menju: reliable desktop application
+- Nitrolang: Interpreted scripting language
 
 <details>
 <summary>Contact</summary>
