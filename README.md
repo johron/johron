@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/johainworks/johainworks/main/images/logo.png" height="128">
+<img src="https://avatars.githubusercontent.com/u/59508244?v=4" height="128">
 
 ![](https://komarev.com/ghpvc/?username=johainworks&style=flat-square)
 
