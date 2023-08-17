@@ -6,12 +6,13 @@
 hobbyist devloper.
 
 ### Projects
-- Menju: reliable desktop application
-- Nitrolang: Interpreted scripting language
+- Menju: Reliable desktop application (Unfinished)
+- Nitrolang: Interpreted scripting language (Unfinished)
+- Boomerang:  Fast and efficient project manager. (Stable and still being worked on)
 
 <details>
 <summary>Contact</summary>
   
   - Discord: `Johain#0339`   
-  - Email: `johain@courvix.com`
+  - Email: `johan@flaks.one`
 </details>
