@@ -9,9 +9,3 @@ hobbyist devloper.
 - Menju: Reliable desktop application (Unfinished)
 - Nitrolang: Interpreted scripting language (Unfinished)
 - Boomerang:  Fast and efficient project manager. (Stable and still being worked on)
-
-<details>
-<summary>Contact</summary>
-  
-  - Discord: `Johain#0339`   
-</details>
