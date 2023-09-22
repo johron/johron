@@ -14,5 +14,4 @@ hobbyist devloper.
 <summary>Contact</summary>
   
   - Discord: `Johain#0339`   
-  - Email: `johan@flaks.one`
 </details>
