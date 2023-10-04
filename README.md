@@ -4,8 +4,3 @@
 
 ### About
 hobbyist devloper.
-
-### Projects
-- Menju: Reliable desktop application (Unfinished)
-- Nitrolang: Interpreted scripting language (Unfinished)
-- Boomerang:  Fast and efficient project manager. (Stable and still being worked on)
