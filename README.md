@@ -4,3 +4,4 @@
 
 ### About
 hobbyist devloper.
+hobbyutvikler.
