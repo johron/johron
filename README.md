@@ -3,6 +3,4 @@
 ![](https://komarev.com/ghpvc/?username=johainworks&style=flat-square)
 
 ### About
-- hobbyist devloper.
-- hobbyutvikler.
-- english & norsk.
+- norwegian and english
