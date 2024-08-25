@@ -1,3 +1,3 @@
 ### About
-- norsk, english and español
+- norsk, english, español
 - [johron.one](https://johron.one)
