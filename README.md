@@ -1,3 +1,3 @@
-- I'm Johan, and I'm a self-taught programmer.
-- 17
-- For more information go to my [website](https://johron.one).
+<div align="center">
+  <img src="johron-card-blue.png" alt="Johron Card Blue" width="500">
+</div>
